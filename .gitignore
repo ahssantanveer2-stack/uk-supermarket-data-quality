@@ -1,0 +1,18 @@
+# Raw and cleaned datasets
+data/raw/
+data/Raw/
+data/cleaned/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Power BI temporary/cache files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
